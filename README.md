@@ -8,7 +8,7 @@ Para iniciar la aplicación, ejecutar `npm start` en la terminal.
 ## Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar `npm install`.
 
-##Vista previa
+## Vista previa
 
 ![Vista previa](p1.png)
 ![Vista previa](p2.png)
