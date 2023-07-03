@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testimonios-react-app/static/css/main.5e442d15.css",
+    "main.js": "/testimonios-react-app/static/js/main.c9931004.js",
+    "static/media/testimonio-cataratas.png": "/testimonios-react-app/static/media/testimonio-cataratas.9a7b87d1717c70f38a08.png",
+    "static/media/testimonio-humauaca.png": "/testimonios-react-app/static/media/testimonio-humauaca.7cfd5001c068c0c798e3.png",
+    "static/media/testimonio-ba.png": "/testimonios-react-app/static/media/testimonio-ba.1c77b21d7c6ca5477886.png",
+    "index.html": "/testimonios-react-app/index.html",
+    "main.5e442d15.css.map": "/testimonios-react-app/static/css/main.5e442d15.css.map",
+    "main.c9931004.js.map": "/testimonios-react-app/static/js/main.c9931004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e442d15.css",
+    "static/js/main.c9931004.js"
+  ]
+}
